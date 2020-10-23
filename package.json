@@ -1,0 +1,23 @@
+{
+  "name": "barnab0t",
+  "version": "1.0.0",
+  "description": "bot for lecomptoirdudev_ twitch channel",
+  "main": "bot.js",
+  "dependencies": {
+    "tmi.js": "^1.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pbelabbes/barnab0t.git"
+  },
+  "author": "pierre_belabbes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pbelabbes/barnab0t/issues"
+  },
+  "homepage": "https://github.com/pbelabbes/barnab0t#readme"
+}
